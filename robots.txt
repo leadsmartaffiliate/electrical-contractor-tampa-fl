@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://electrical-contractor-tampa-fl.netlify.app/sitemap.xml
